@@ -2,7 +2,7 @@
   "name": "mcp-painter",
   "version": "1.0.0",
   "bin": {
-    "mcp-painter": "dist/index.js"
+    "mcp-server-painter": "dist/index.js"
   },
   "type": "module",
   "files": [
