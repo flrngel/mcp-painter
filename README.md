@@ -2,7 +2,7 @@
 [![smithery badge](https://smithery.ai/badge/@flrngel/mcp-painter)](https://smithery.ai/server/@flrngel/mcp-painter)
 
 ![Drawing MCP Server - A simple drawing tool for AI assistants](/cowboy.webp)
-> Draw cowboy using canvas tools
+> Draw cowboy using canvas tools [chat log](https://claude.ai/share/bacd12c5-5a1c-47bc-a194-63b023be3e04)
 
 A Model Context Protocol (MCP) server that provides drawing capabilities for AI assistants.
 
