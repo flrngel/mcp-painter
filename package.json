@@ -2,7 +2,7 @@
   "name": "mcp-painter",
   "version": "1.0.0",
   "bin": {
-    "mcp-server-painter": "dist/index.js"
+    "mcp-painter": "dist/index.js"
   },
   "type": "module",
   "files": [
@@ -15,7 +15,7 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "A drawing tool for Model Context Protocol",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.7.0",
     "pngjs": "^7.0.0"
@@ -24,5 +24,9 @@
     "@types/pngjs": "^6.0.5",
     "shx": "^0.4.0",
     "typescript": "^5.8.2"
+  },
+  "main": "dist/index.js",
+  "engines": {
+    "node": ">=16"
   }
 }
