@@ -1,5 +1,5 @@
 {
-  "name": "mcp-painter",
+  "name": "flrngel/mcp-painter",
   "version": "1.0.0",
   "bin": {
     "mcp-server-painter": "dist/index.js"
