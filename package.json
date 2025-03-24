@@ -1,0 +1,28 @@
+{
+  "name": "mcp-painter",
+  "version": "1.0.0",
+  "bin": {
+    "mcp-server-painter": "dist/index.js"
+  },
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc && shx chmod +x dist/*.js",
+    "prepare": "npm run build",
+    "watch": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.7.0",
+    "pngjs": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/pngjs": "^6.0.5",
+    "shx": "^0.4.0",
+    "typescript": "^5.8.2"
+  }
+}
