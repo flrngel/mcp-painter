@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/flrngel-mcp-painter-badge.png)](https://mseep.ai/app/flrngel-mcp-painter)
+
 # Drawing MCP Server
 [![smithery badge](https://smithery.ai/badge/@flrngel/mcp-painter)](https://smithery.ai/server/@flrngel/mcp-painter)
 
